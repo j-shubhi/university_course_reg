@@ -1,9 +1,14 @@
 ## Assumptions
 email id of admin: admin@iiitd.ac.in
+
 FIXED_PSWD for admin is admin123
+
 Available Courses:
+
 MTH101: LA, Professor: subhajit@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Mon/Wed 10-11 AM
+
 CSE101: Introduction to Programming, Professor: pankaj@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Tue/Thu 1-2:30 PM
+
 ECE201: Digital circuits, Professor: tammam@iiitd.ac.in, Credits: 2, Prerequisites: , Timings: Fri 9-10 AM
 DES101: iHCI, Professor: sonal@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Tues 10-11 AM
 COM101: COM, Professor: payal@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Wed 3-6 PM
