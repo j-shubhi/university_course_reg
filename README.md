@@ -10,40 +10,75 @@ MTH101: LA, Professor: subhajit@iiitd.ac.in, Credits: 4, Prerequisites: , Timing
 CSE101: Introduction to Programming, Professor: pankaj@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Tue/Thu 1-2:30 PM
 
 ECE201: Digital circuits, Professor: tammam@iiitd.ac.in, Credits: 2, Prerequisites: , Timings: Fri 9-10 AM
+
 DES101: iHCI, Professor: sonal@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Tues 10-11 AM
+
 COM101: COM, Professor: payal@iiitd.ac.in, Credits: 4, Prerequisites: , Timings: Wed 3-6 PM
+
 Current Semester: 1
+
 professors
+
 email                  password
+
 "tammam@iiitd.ac.in"    "123"
+
 "anoop@iiitd.ac.in"     "456"
+
 "shad@iiitd.ac.in"      "789"
+
 students
+
 email                  password
+
 "shubhi@iiitd.ac.in"    "111" 
+
 "neha@iiitd.ac.in"      "222"
+
 "sumit@iiitd.ac.in"     "333"
+
 TAs
+
 email                  password
+
 "harry@iiitd.ac.in"      "t1"
+
 "ginny@iiitd.ac.in       "t2"
+
 "luna@iiitd.ac.in"       "t3"
+
 cgpa = sgpa
+
 # Demo
+
 Some Admin, Student, TAs, Professors are initialised
+
 For student login: enter mail and password
+
 If successful, submit feedback for a particular course
+
 To submit feedback: enter course code and then feedback
+
 It will be submitted if code is valid
+
 These feedbacks can be viewed by professor of that course
+
 For TA login: enter mail and password
+
 Grades can be viewed or assigned
+
 For exceptions:
+
 Invalid login: enter invalid credentials in login- it will throw an error
+
 Course drop failures: register for a course as a student, try to drop course after 1 minute it will throw an error
+
 Invalid course registration: add a course as an admin(keep capacity of course 1 for simplicity), then register for that course as student1 and then try register that course as student2 it will throw an error as capacity(i.e., 1) is full
+
 How to run the code:
+
 download my folder, open in IntelliJ, reach main.java, press on run, follow the instructions shown in terminal after running the code.
+
 ## **How OOPs concepts are used**
 ### **Classes and Objects**
 The code defines multiple classes, Student, Professor, Admin, Course, and Complaint. These classes serve as blueprints for creating objects that encapsulate data and behavior related to students, professors, administrators, courses, and complaints, respectively.
